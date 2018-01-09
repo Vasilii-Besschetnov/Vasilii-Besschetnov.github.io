@@ -61,7 +61,7 @@
 /******/ 	
 /******/ 	
 /******/ 	var hotApplyOnUpdate = true;
-/******/ 	var hotCurrentHash = "7a1c66750af9a8c7cf70"; // eslint-disable-line no-unused-vars
+/******/ 	var hotCurrentHash = "c728c7edac8a9917fea8"; // eslint-disable-line no-unused-vars
 /******/ 	var hotRequestTimeout = 10000;
 /******/ 	var hotCurrentModuleData = {};
 /******/ 	var hotCurrentChildModule; // eslint-disable-line no-unused-vars
@@ -45348,35 +45348,35 @@ var data = {
         iconCls: "icon icon-spinner10",
         items: [{
             title: "",
-            content: "IT Professional with overt <b>9 years</b> of experience. I am specializing on <b>Web Technologies</b>.\n!!!TODO!!! Have successfull capable of managing a team up to 30 members. Last 6 years is focused on web technologies.\nAlso has base knowledge in such technologies like: .Net, T-SQL, WPF.\n" }]
+            content: "IT Professional with over <b>9 years</b> of experience. I am specializing on <b>Web Technologies</b>,\nbut have experience on all layers of application <b>from database to UI</b>.\n\nExperienced with all stages of the development cycle for dynamic web projects.\n\nI am seeking for a position that will continually <b>challenge my problem solving, analytics and management skills</b>.\n" }]
     }, {
         title: "Experience",
         iconCls: "icon  icon-briefcase",
         items: [{
-            title: "Delivery Manager/UI Team Lead",
+            title: "UI Team Lead/Delivery Manager",
             period: {
-                startDate: new Date(2011, 8, 30),
+                startDate: new Date(2011, 8, 31),
                 endDate: new Date(2017, 9, 31)
             },
-            content: "\niPreo <br/>\n<ul>\n<li>I gave a life to <a target=\"_blank\" href=\"https://pcm.ipreo.com/Solutions/Solutions_iVAL\">iVal module (https://pcm.ipreo.com/Solutions/Solutions_iVAL)</a> and grew it up</li>\n<li>I managed a distributed team up to 30 developers and QA engineers</li>\n<li>Implemented rich user interfaces with diversity of tools and frameworks: Webpack, React Js, Redux, Jest, Web API, Asp.Net, Ext Js, Ext.Net, jQuery, Backbone, Bootstrap.</li>\n<li>Supported high standards of code quality through all code base.</li>\n<li>Project architecture design</li>\n<li>Data model design</li>\n<li>Build up a framework for valuation module.</li>\n</ul>\n" }, {
-            title: "Software engineer",
+            content: "\niPreo <br/>\n\nI gave a life to <a target=\"_blank\" href=\"https://pcm.ipreo.com/Solutions/Solutions_iVAL\">iVal module (https://pcm.ipreo.com/Solutions/Solutions_iVAL)</a> and grew it up.\n\nI managed a distributed team <b>up to 30</b> developers and QA engineers.\n\nImplemented rich user interfaces with <b>diversity of tools and frameworks</b>: Webpack, React Js, Redux, Jest, Web API, Asp.Net, Ext Js, Ext.Net, jQuery, Backbone, Bootstrap.\n\nSupported high standards of code quality through all code base.\n\nI built up a <b>framework</b> for valuation module.\n\nI significantly increased performance and responsiveness of a web application.\n\n" }, {
+            title: "Senior Full Stack Engineer",
             period: {
                 startDate: new Date(2010, 5, 30),
                 endDate: new Date(2011, 7, 31)
             },
-            content: "\nStudiocom <br/>\n<ul>\n<li>Business analysis and capturing requirements</li>\n<li>I Developed an fault-tolerant engine for ETL packages</li>\n<li>Implemented rich user interfaces with diversity of tools and frameworks: Webpack, React Js, Redux, Jest, Web API, Asp.Net, Ext Js, Ext.Net, jQuery, Backbone, Bootstrap.</li>\n<li>Supported high standards of code quality through all code base.</li>\n<li>Project architecture design</li>\n<li>Data model design</li>\n<li>Build up a framework for valuation module.</li>\n</ul>\n" }, {
-            title: "Delivery Manager/UI Team Lead",
+            content: "\nStudiocom <br/>\n\nI developed a <b>flexible and fault-tolerant engine</b> for ETL packages.\n\nCollaborated with stakeholders to make sure that the requirements and a product satisfy business needs.\n\nBuilt up Windows services for monitoring and processing incoming feeds.\n\nSupported database schema and built reports for promo campaigns.\n\n\n" }, {
+            title: "Full Stack Engineer",
+            period: {
+                startDate: new Date(2010, 5, 30),
+                endDate: new Date(2009, 7, 30)
+            },
+            content: "\nService Center <br/>\n\nExisting application was migrated to Win Forms + MySql.\n\nWCF services were implemented, that were consumed by desktop and web applications.\n\nI  developed a rich user interface using Win Forms. \n\nSupport of different types of databases was added.\n\nI solve a problem of synchronization between service centers.\n\nBuilt up a reporting engine.\n\n" }, {
+            title: "Full Stack Engineer",
             period: {
                 startDate: new Date(2011, 8, 1),
-                endDate: new Date(2011, 9, 30)
+                endDate: new Date(2008, 9, 30)
             },
-            content: "Developer with significant experience in front-end, capable of managing a team up to 30 members. Working in IT for 9 years. Last 6 years is focused on web technologies.\nAlso has base knowledge in such technologies like: .Net, T-SQL, WPF.\n" }, {
-            title: "Delivery Manager/UI Team Lead",
-            period: {
-                startDate: new Date(2011, 8, 1),
-                endDate: new Date(2011, 9, 30)
-            },
-            content: "Developer with significant experience in front-end, capable of managing a team up to 30 members. Working in IT for 9 years. Last 6 years is focused on web technologies.\nAlso has base knowledge in such technologies like: .Net, T-SQL, WPF.\n" }]
+            content: "\nInvar <br/>\n\nDeveloped engine for expert system which facilitates decision making. Practical applications could include medicine, transportation, repair facility, etc.\nAn architecture and calculation engine were disigned by me.\n" }]
     }, {
         title: "Education",
         iconCls: "icon icon-library",
@@ -45386,7 +45386,7 @@ var data = {
                 startDate: new Date(2004, 8, 1),
                 endDate: new Date(2009, 7, 31)
             },
-            content: "\n<ul>\n<li>\nGraduated summa cum laude\n</li>\n<li>\nGraduated a course of international communication (English)\n</li>\n\n</ul>\n" }]
+            content: "\n\n\nGraduated summa cum laude.\n\nGraduated a course of international communication (English).\n\n\n\n" }]
     }],
     skills: [{
         title: "Skills",
@@ -45790,7 +45790,7 @@ var ShoppingApp = function ShoppingApp(props) {
     return __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_7_src_Resume_components_Resume__["a" /* default */], {
         __source: {
             fileName: _jsxFileName,
-            lineNumber: 11
+            lineNumber: 12
         },
         __self: _this
     });
