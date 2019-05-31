@@ -26901,7 +26901,7 @@ var sections = [{
     iconCls: _iconfont.iconSpinner10,
     items: [{
         title: "",
-        content: "IT Professional with over 9 years of direct experience in several enterprise solutions. Primarily I specialize on <b>Web Technologies</b>,\nand also have experience on all layers of application <b>from database to UI</b>.\n\nExperienced with all stages of the development cycle for dynamic web projects.\n\nI am strong <b>team player with high dedication and leadership</b>.\n\nI am seeking for a position that will continually <b>challenge my problem solving, analytics and management skills</b>.\n" }]
+        content: "IT Professional with over 11 years of direct experience in several enterprise solutions. Primarily I specialize on <b>Web Technologies</b>,\nand also have experience on all layers of application <b>from database to UI</b>.\n\nExperienced with all stages of the development cycle for dynamic web projects.\n\nI am strong <b>team player with high dedication and leadership</b>.\n\nI am seeking for a position that will continually <b>challenge my problem solving, analytics and management skills</b>.\n" }]
 }, {
     title: "Experience",
     iconCls: _iconfont.iconBriefcase,
@@ -26911,7 +26911,7 @@ var sections = [{
             startDate: new Date(2017, 2, 1),
             endDate: null
         },
-        content: "\nDremio <a target='_blank' href='https://www.dremio.com/'>https://www.dremio.com/</a> <br/>\n\nBuild a UI for big data application that displays millions of records. Improve user experience of application. Consistently work on performance optimization, code quality improvement.\n\nEnsure robustness and stability of a product by automation of integration tests.\n" }, {
+        content: "\nDremio <a target='_blank' href='https://www.dremio.com/'>https://www.dremio.com/</a> <br/>\n\nBuild a UI for big data application that handles millions of records. Improve user experience of the application. Consistently work on performance optimization, code quality improvement.\n\nEnsure robustness and stability of a product by automation of integration tests.\n" }, {
         title: "UI Team Lead/Delivery Manager",
         period: {
             startDate: new Date(2011, 8, 1),
@@ -27163,7 +27163,7 @@ var skills = [{
         name: "React, Redux, Webpack, Mocha, Jest",
         grade: 5
     }, {
-        name: "HTML/CSS",
+        name: "HTML/CSS/LESS/SASS",
         grade: 5
     }, {
         name: "jQuery",
