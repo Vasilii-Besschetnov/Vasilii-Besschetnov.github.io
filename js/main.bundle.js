@@ -25688,9 +25688,9 @@ var Row = function Row(_ref) {
 };
 
 var PersonalInfo = function PersonalInfo() {
-    var email = "vbesschetnov@yandex.ru",
+    var email = "vasilii.besschetnov87@gmail.com",
         linkedInUrl = "www.linkedin.com/in/vasilii-besschetnov",
-        phone = "650-495-23-88";
+        phone = "650-254-6517";
     return _react2.default.createElement(
         "div",
         { className: _personalInfo.cntPersonalInfo },
